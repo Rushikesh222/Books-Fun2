@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@1,500&display=swap");
+.App {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: center;
+}
+button {
+  background-color: royalblue;
+  display: inline;
+  padding: 10px 10px;
+  margin: 10px;
+  border-radius: 10px;
+  color: white;
+}
+
+li {
+  background-color: lightcyan;
+  border-radius: 5px;
+  border: 1px solid darkcyan;
+  display: block;
+  text-align: left;
+  padding: 10px, 10px;
+  margin: 25px;
+}
+h2 {
+  font-size: 25px;
+}
+h3 {
+  color: gray;
+  font-size: 15px;
+}
